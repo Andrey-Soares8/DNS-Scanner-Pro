@@ -1,0 +1,21 @@
+# Wordlist curta para teste autorizado
+www
+mail
+ftp
+admin
+api
+app
+blog
+dev
+staging
+test
+portal
+vpn
+cdn
+assets
+static
+support
+help
+login
+panel
+m
