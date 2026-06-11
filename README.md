@@ -36,8 +36,8 @@ Este projeto foi criado para praticar conceitos de reconhecimento, DNS, automaç
 ## Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/dns-scanner-pro.git
-cd dns-scanner-pro
+git clone https://github.com/Andrey-Soares8/DNS-Scanner-Pro.git
+cd DNS-Scanner-Pro
 python -m venv venv
 ```
 
